@@ -9,8 +9,8 @@ In this assignment you will create your own customized animated wave similar to 
 PART 1: we set up the circles
 
 1. Fork this repo.
-1. paste the (broken) starter code from the repo's .pde file into processing
-1. fix the code, so it draws a set of concentric (inside each other) circles
+1. paste the starter code from the repo's .pde file into processing
+1. fix the code, so it uses a `while` loop to draw a set of concentric (inside each other) circles
 1. set your own stroke, fill (noFill?), background, strokeWeight, number of circles, width between circles.
 1. tinker with your code until you like the look of the circles.
 
