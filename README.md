@@ -43,5 +43,8 @@ WRAP-UP:
 1. Go to the `Settings` page for your repo, and scroll down to the `Pages` section. Change the `Source` to `main`, then click the `save` button.
 1. Check your work at `<YourUsername>.github.io/WoodstockWave`. (You can also find this link by scrolling down to the middle of your settings page.)
 
+## Take it further
+Optionally, if you're interested in exploring other sketches like this one, check out Jerome Herr's page linked in the credits below. You can click on any of his designs to see them, and then click on the little `</>` button at the top of the page to see the code. 
+
 ## Credit
 This assignment is based on original work created by [Jerome Herr](https://www.openprocessing.org/user/28663).
