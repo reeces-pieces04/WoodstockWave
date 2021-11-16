@@ -23,9 +23,10 @@ PART 2: we turn the circles into arcs
 
 PART 3: we make the arcs move
 
-1. now let's set `arcEnd`'s initial value to `PI`, and then in the last line of the draw function, increment `arcEnd` by 0.05
-1. run your sketch: you should see a set of arcs wrap around to close themselves.
-1. try out other values to see what happens.
+1. now set the `arcEnd`'s initial value to be the same as `arcStart`'s initial value.
+2. then in the last line of the draw function, increment `arcEnd` by 0.05
+3. run your sketch: you should see a set of arcs wrap around to close themselves.
+4. try out other values to see what happens.
 
 PART 4: we make them move like a wave
 
