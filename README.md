@@ -21,13 +21,13 @@ PART 2: we turn the circles into arcs
 1. in the draw function, change the `ellipse` function into an `arc` function and use the `arcStart` and `arcEnd` variables as arguments. You might find it help to look at the reference page for `arc`.
 1. run your sketch: you should see something that looks like a rainbow.
 
-PART 4: we make the arcs move
+PART 3: we make the arcs move
 
 1. now let's set `arcEnd`'s initial value to `PI`, and then in the last line of the draw function, increment `arcEnd` by 0.05
 1. run your sketch: you should see a set of arcs wrap around to close themselves.
 1. try out other values to see what happens.
 
-PART 3: we make them move like a wave
+PART 4: we make them move like a wave
 
 1. we need a stopping point for the movement. declare a new global (above the setup function) variable called `maxArcEnd` and set its initial value to `TWO_PI`. (THINK ABOUT: What is the appropriate data type for this variable?)
 1. in the same way, declare two more global (above setup) variables called `movement` and `speed`. Set the initial value of `movement` to 0.0 and set the initial value of `speed` to `PI/60`.
