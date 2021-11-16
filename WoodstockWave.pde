@@ -6,6 +6,5 @@ void setup() {
 }
 
 void draw() {
-  int x = 20;
-  ellipse(200, 200, x, x);
+  ellipse(200, 200, 20, 20);
 }
